@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Sole/AndroidStudioProjects/Integrador Android/Integrador-Android/app/src/main/res/layout/activity_main.xml" value="0.17" />
-        <entry key="..\:/Users/Sole/AndroidStudioProjects/Integrador Android/Integrador-Android/app/src/main/res/layout/fragment_home.xml" value="0.25" />
-        <entry key="..\:/Users/Sole/AndroidStudioProjects/Integrador Android/Integrador-Android/app/src/main/res/layout/fragment_suggestion_random.xml" value="0.12092391304347826" />
-        <entry key="..\:/Users/Sole/AndroidStudioProjects/Integrador Android/Integrador-Android/app/src/main/res/layout/fragment_terms.xml" value="0.25" />
+        <entry key="..\:/Users/Maxi/Desktop/Proyectos/AppChallenge/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Maxi/Desktop/Proyectos/AppChallenge/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maxi/Desktop/Proyectos/AppChallenge/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maxi/Desktop/Proyectos/AppChallenge/app/src/main/res/layout/fragment_terms.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
